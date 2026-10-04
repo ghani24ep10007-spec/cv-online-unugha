@@ -1,0 +1,6 @@
+name = "cv-online-rizqi"
+compatibility_date = "2026-10-04"
+main = "src/worker.js"
+
+[assets]
+directory = "./assets"
