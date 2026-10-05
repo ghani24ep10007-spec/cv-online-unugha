@@ -1,0 +1,183 @@
+[
+  {
+    "id": "SI-001",
+    "title": "Portal Informasi Akademik",
+    "category": "Sistem Informasi",
+    "summary": "Struktur informasi pengumuman, kalender, dan layanan kampus.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JSON"
+    ],
+    "level": "Dasar",
+    "status": "selesai"
+  },
+  {
+    "id": "UI-002",
+    "title": "Perpustakaan Digital",
+    "category": "Antarmuka",
+    "summary": "Katalog koleksi dengan hierarki navigasi dan ringkasan buku.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "level": "Dasar",
+    "status": "dalam kajian"
+  },
+  {
+    "id": "API-003",
+    "title": "Direktori Data Terbuka",
+    "category": "Data & API",
+    "summary": "Skema data demonstrasi dengan validasi dan label status.",
+    "tech": [
+      "JSON",
+      "Laravel"
+    ],
+    "level": "Menengah",
+    "status": "dikembangkan"
+  },
+  {
+    "id": "LOG-004",
+    "title": "Pengelompokan Nilai",
+    "category": "Logika Program",
+    "summary": "Pengelompokan nilai berdasarkan rentang dan status hasil.",
+    "tech": [
+      "Java"
+    ],
+    "level": "Dasar",
+    "status": "selesai"
+  },
+  {
+    "id": "UI-005",
+    "title": "Dasbor Administrasi",
+    "category": "Antarmuka",
+    "summary": "Ringkasan aktivitas dan indikator utama pada dashboard.",
+    "tech": [
+      "CSS",
+      "JavaScript"
+    ],
+    "level": "Menengah",
+    "status": "dalam kajian"
+  },
+  {
+    "id": "SI-006",
+    "title": "Inventaris Laboratorium",
+    "category": "Sistem Informasi",
+    "summary": "Pencatatan aset berdasarkan identitas, kategori, dan kondisi.",
+    "tech": [
+      "Laravel",
+      "JSON"
+    ],
+    "level": "Menengah",
+    "status": "dikembangkan"
+  },
+  {
+    "id": "API-007",
+    "title": "Respons API Terstruktur",
+    "category": "Data & API",
+    "summary": "Pemetaan respons JSON ke daftar antarmuka.",
+    "tech": [
+      "JSON",
+      "JavaScript"
+    ],
+    "level": "Dasar",
+    "status": "selesai"
+  },
+  {
+    "id": "LOG-008",
+    "title": "Validasi Formulir",
+    "category": "Logika Program",
+    "summary": "Pemeriksaan masukan wajib dan umpan balik yang jelas.",
+    "tech": [
+      "Java",
+      "JavaScript"
+    ],
+    "level": "Dasar",
+    "status": "dalam kajian"
+  },
+  {
+    "id": "UI-009",
+    "title": "Profil Institusi",
+    "category": "Antarmuka",
+    "summary": "Layout editorial formal dan navigasi responsif.",
+    "tech": [
+      "CSS"
+    ],
+    "level": "Menengah",
+    "status": "dikembangkan"
+  },
+  {
+    "id": "SI-010",
+    "title": "Manajemen Peminjaman",
+    "category": "Sistem Informasi",
+    "summary": "Pencatatan peminjaman dan pengembalian sebagai studi proses.",
+    "tech": [
+      "Laravel",
+      "JSON"
+    ],
+    "level": "Menengah",
+    "status": "selesai"
+  },
+  {
+    "id": "API-011",
+    "title": "Daftar Jadwal Kuliah",
+    "category": "Data & API",
+    "summary": "Data jadwal terstruktur dengan kode, hari, dan waktu.",
+    "tech": [
+      "JSON",
+      "CSS"
+    ],
+    "level": "Dasar",
+    "status": "dalam kajian"
+  },
+  {
+    "id": "LOG-012",
+    "title": "Pencarian dan Pengurutan",
+    "category": "Logika Program",
+    "summary": "Mengurutkan katalog dan mencari menurut kata kunci.",
+    "tech": [
+      "Java",
+      "JavaScript"
+    ],
+    "level": "Menengah",
+    "status": "dikembangkan"
+  },
+  {
+    "id": "SI-013",
+    "title": "Direktori Organisasi Mahasiswa",
+    "category": "Sistem Informasi",
+    "summary": "Katalog organisasi dan bidang kegiatan demonstrasi.",
+    "tech": [
+      "Laravel",
+      "JSON"
+    ],
+    "level": "Menengah",
+    "status": "selesai"
+  },
+  {
+    "id": "UI-014",
+    "title": "Portofolio Proyek Kelas",
+    "category": "Antarmuka",
+    "summary": "Galeri hasil belajar berlabel teknologi dan deskripsi.",
+    "tech": [
+      "CSS",
+      "JavaScript"
+    ],
+    "level": "Dasar",
+    "status": "dalam kajian"
+  },
+  {
+    "id": "API-015",
+    "title": "Endpoint Rekam Proyek",
+    "category": "Data & API",
+    "summary": "Rancangan sumber REST sederhana dan transformasi antarmuka.",
+    "tech": [
+      "Laravel",
+      "JSON",
+      "JavaScript"
+    ],
+    "level": "Menengah",
+    "status": "dikembangkan"
+  }
+]
